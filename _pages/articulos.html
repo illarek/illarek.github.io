@@ -22,7 +22,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <span class="tag-text">{{ tag[0] }}</span>
                 </span>
                 -->
-                <h4 class="fa fa-tag font-weight-bold text-capitalize" id="{{ category[0] | downcase }}"><span class="listing-seperator tag-text"></span>>{{ tag[0] }}</span></h4>
+                <h4 class="fa fa-tag text-capitalize" id="{{ tag[0] | downcase }}"><span class="tag-text"></span>>{{ tag[0] }}</span></h4>
                 <!-- Post de la Etiqueta-->
                 <div class="row">
                 {% for post in tag[1] %}
