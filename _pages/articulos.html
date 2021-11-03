@@ -18,11 +18,11 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
             <!-- Etiqueta-->
             {% for tag in site.categories %}
             <div class="one-tag-list">
-                <span class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] }}">
+                <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] }}">
                     <span>{{ tag[0] }}</span>
-                </span>
+                </h4>
                 
-                <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+                <!-- <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4> -->
                 <!-- Post de la Etiqueta-->
                 <div class="row">
                 {% for post in tag[1] %}
