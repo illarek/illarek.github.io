@@ -2,7 +2,7 @@
 layout: post
 title:  "La Voyaguer"
 author: john
-articulos: [ Politica, Tech ]
+categories: [ Politica, Tech ]
 image: assets/images/la_voyaguer.png
 ---
 El 5 de septiembre de 1977 se lanzaron los objetos que más lejos han llegado desde la tierra, las sondas espaciales Voyager 1 y 2. Ambas sondas llevan consigo un disco de oro que contienen imágenes y sonidos que retratan la vida en la tierra: los números, una pareja, un atardecer, el nacimiento, la música, el baile, las leguas, un resumen de imágenes y sonidos definen lo que somos como especie; y son la evidencia de la vida en la tierra a una posible forma de vida extraterrestre inteligente.
