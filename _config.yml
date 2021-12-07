@@ -1,10 +1,10 @@
 # Site
-name: 'Jamutaku'
+name: 'Illarek'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://jamutaku.github.io'
-disqus: 'Jamutaku website'
+baseurl: 'https://illarek.github.io'
+disqus: 'Illarek website'
 email: 'john.barrera@unmsm.edu.pe'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
